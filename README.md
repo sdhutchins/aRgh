@@ -1,6 +1,6 @@
 # aRgh
 
-What you should know about R to lessen prevent any frustration.
+What you should know about R to prevent any frustration.
 
 ## Gems
 
